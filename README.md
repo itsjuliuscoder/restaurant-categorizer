@@ -40,11 +40,3 @@ This project integrates Google Places API and Yelp Fusion API to provide compreh
     GOOGLE_API_KEY=your_google_api_key
     YELP_API_KEY=your_yelp_api_key
     ```
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
